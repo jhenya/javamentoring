@@ -1,4 +1,4 @@
-package com.epam.mentoring;
+package com.epam.sorting;
 
 import java.util.Arrays;
 

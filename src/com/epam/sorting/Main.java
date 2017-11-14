@@ -1,11 +1,9 @@
-package com.epam.mentoring;
+package com.epam.sorting;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.lang.System;
-import java.nio.Buffer;
-import java.util.Arrays;
 
 public class Main {
 
